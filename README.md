@@ -68,19 +68,70 @@
 - In brand development, it’s perfect for coming to a consensus around a coherent brand identity.
 > “`Mind mapping`” is a great technique for developing a coherent brand identity.
 
-
-
-
-
-
-
 ---
 
 ## 2 | Look for design inspiration
+#### Getting started is often the hardest part of any creative endeavor. 
+- It’s good if you have an idea, but sometimes the problem is having too many ideas at once. 
+#### Analysis paralysis occurs when you have so many ideas you get stuck over-analyzing them and become unable to make a decision.
+#### Learn to speak the language of logos by viewing as many great logos as you can. 
+- Think about what made your favourites so memorable. 
+#### If you’re looking for some places to check out great logo designs, here’s a list: 
+- [Logoed](http://www.logoed.co.uk/): 
+  - Logoed’s simple, single-page scroll lets you browse a frequently updated collection of stunning logos.
+- [Logospire](https://logospire.com/): 
+  - This vast collection of user-submitted logo designs will help get your creative juices flowing. 
+- [Brand New](https://www.underconsideration.com/brandnew/): 
+  - Brand New is a blog that covers designs and redesigns of new and notable brands across all industries.
+- [LogoLounge](https://www.logolounge.com/): 
+  - This blog lets graphic designers upload their latest logos. 
+  - LogoLounge is perhaps best known for publishing a series of books showcasing artwork that’s been featured on the site.
+- [Logo Design Love](https://www.logodesignlove.com/): 
+  - Graphic designer David Airey curates this design blog reviewing logos and marketing designs from all over the world. 
+
+#### Design-related hashtags: Many social media communities use specific design-related hashtags for showcasing their graphic design work. 
+- Instagram is especially good for this, given the visual nature of the site. 
+- Next time you’re browsing the ’gram, check out some of the more popular design hashtags: 
+  - #logo
+  - #logodesigns 
+  - #logodesigner 
+  - #graphicdesign
+  - #graphicdesigner
 
 ---
 
 ## 3 | Choose colors that reflect your brand
+#### Color is more fundamental to a person’s perception of visual stimuli than many people realize. 
+- Studies have even suggested that [color can affect your users’ mood](https://www.usertesting.com/blog/color-ux-conversion-rates), making it crucial to their buying decision.
+- Your logo’s colors will end up on your website, in-store signage, social media feeds, marketing emails, and every other place where a user interacts with your brand. 
+- There’s no color that’s universally “better,” but each color does say something different. 
+- You want to make sure you’re saying the right thing. 
+#### With that in mind, let’s go over the psychological effects of certain colors:
+- **`Brown`**: 
+  - An earthy tone, brown is often associated with all-natural ingredients, homemade goods, and freshly baked treats. Given its the color of tree bark, sticks, autumn leaves, and rich soil, brown can also give an outdoorsy aura to your brand.
+  > MadeGood uses brown heavily in its packaging and marketing to invoke a sense of earthiness and memories of homemade baking.
+- **`Orange`**: 
+  - Like a roaring fire, orange radiates warmth, energy, and passion. 
+  - The color of sunsets, it also tends to invoke summer—especially when paired with lighter blues and soft greens. 
+  > Lumi’s orange-focused juice packaging brings to mind sparkling refreshment on a hot summer day.
+- **`Yellow`**: 
+  - Orange’s high-saturation sister, yellow, also gives off light, energy, and warmth. 
+  - But if orange’s warmth is a glowing fireplace, yellow’s is the intense heat of a midday sun radiating over baron dessert. 
+  - Yellow tends to invoke happy feelings, but use it sparingly. 
+  - A little yellow can add a touch of optimism to a dependable brand, but a lot can be maniacal.
+  > Perfume retailer Happiness Abscissa (Ha) uses yellow to add a feeling of optimism and joy.
+- **`Green`**: 
+  - A color with two personalities, green can invoke an organic aura that brings to mind lush rainforests, eco-awareness, and a sense of calm. 
+  - And yet green just as easily becomes the color of money, greed, envy, and nausea.
+
+
+
+
+
+
+
+
+
 
 ---
 
