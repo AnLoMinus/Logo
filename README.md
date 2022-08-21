@@ -33,9 +33,9 @@
 ---
 
 ##### Whether you choose to design a logo yourself, hire a designer, or use an online logo maker, the process will involve the same 7 steps:
-- [ ] [Develop your brand identity](#develop-your-brand-identity)
-- [ ] [Look for design inspiration](#)
-- [ ] [Choose colors that reflect your brand](#)
+- [ ] [Develop your brand identity](#1--develop-your-brand-identity)
+- [ ] [Look for design inspiration](#2--look-for-design-inspiration)
+- [ ] [Choose colors that reflect your brand](#3--choose-colors-that-reflect-your-brand)
 - [ ] [Pick a font](#)
 - [ ] [Create several rough versions](#)
 - [ ] [Get feedback](#)
