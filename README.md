@@ -2,7 +2,7 @@
 
 ---
 
-# How to Design a Memorable Logo in 7 Steps
+# [How to Design a Memorable Logo in 7 Steps](https://www.shopify.in/blog/how-to-design-logo)
 - #### Good logos stick. Bad ones don’t.
 - North American Vexillological Association, says flag designs should be simple enough that a child can draw them from memory. 
 - Your logo is not your brand—you build that separately—but it will become the face of your brand.
