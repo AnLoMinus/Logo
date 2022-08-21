@@ -33,11 +33,68 @@
 ---
 
 ##### Whether you choose to design a logo yourself, hire a designer, or use an online logo maker, the process will involve the same 7 steps:
-- [ ] [Develop your brand identity](#)
+- [ ] [Develop your brand identity](#develop-your-brand-identity)
 - [ ] [Look for design inspiration](#)
 - [ ] [Choose colors that reflect your brand](#)
 - [ ] [Pick a font](#)
 - [ ] [Create several rough versions](#)
 - [ ] [Get feedback](#)
 - [ ] [Polish your winning design](#)
+
+---
+
+## 1 | Develop your brand identity
+- “**`Brand Identity`**” is a catch-all term for the visual elements of your brand: 
+- everything from your brand colors to your logo to the way elements of your brand are designed. 
+- These visual elements work together to distinguish your brand in the minds of your customers. 
+- Before you start sketching designs for your logo, you’ll want to have an idea of your brand’s identity. 
+- To start, ask yourself these questions: 
+  - [ ] Why did you start your business?
+  - [ ] What values are important to you as a company?
+  - [ ] What sets you apart from the competition?
+- Your brand’s distinguishing features
+  - [ ] what’s most important to you? 
+  - [ ] what will be most recognizable to your customers
+  - [ ] lie in the answers to these questions. 
+- Before putting your pen to paper, before choosing your colors and aesthetics, ask yourself 
+  - [ ] Who you are? 
+- Don’t worry if you can’t answer these questions right away. 
+- They’re a step-off point, meant to be pondered. 
+- But once you’ve thought about it, you’ll be in a better position to create a logo that effectively sets you apart. 
+- We started out by creating a “`mind map`” for our brand values. 
+- Mind mapping is a visual brainstorming technique.
+- You start with a central idea (your brand, in this case) and diagram your thoughts by connecting keywords and related concepts around that central idea. 
+- Mind mapping can be done alone or in a group and is a great tool for refocusing your ideas or creating new ones. 
+- In brand development, it’s perfect for coming to a consensus around a coherent brand identity.
+> “`Mind mapping`” is a great technique for developing a coherent brand identity.
+
+
+
+
+
+
+
+---
+
+## 2 | Look for design inspiration
+
+---
+
+## 3 | Choose colors that reflect your brand
+
+---
+
+## 4 | Pick a font
+
+---
+
+## 5 | Create several rough versions
+
+---
+
+## 6 | Get feedback
+
+---
+
+## 7 | Polish your winning design
 
