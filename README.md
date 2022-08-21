@@ -123,6 +123,36 @@
 - **`Green`**: 
   - A color with two personalities, green can invoke an organic aura that brings to mind lush rainforests, eco-awareness, and a sense of calm. 
   - And yet green just as easily becomes the color of money, greed, envy, and nausea.
+  > Dog-food brand v-dog uses green to express its back-to-nature approach to dog food. 
+- **`Pink`**: 
+  - A softer, gentler color, pink has at different points in history been viewed as both masculine and femine. 
+  - Though contemporary customers will likely associate pink with femininity, it more broadly brings to mind kindness, romance, and love. 
+  > Mignon’s soft pink logo creates the feeling of being loved and cared for.
+- **`Red`**: 
+  - Bold and unforgiving, red tends to stand-out, which is why it’s become such a dependable color in branding. 
+  - Like pink, red tends to invoke romance. But whereas pink’s romance is tender and gracious, red’s romance is passionate, loud, and carnal. 
+  > Kim Kardashian West’s KKW Beauty uses a bold, red tone to give the brand a passionate edge.
+- **`Purple`**: 
+  - The Rasputin of colors⁠, purple is a shadowy, mysterious stranger with an almost magical magnetism. 
+  - Given that purple dyes historically have had a reputation for being rare and expensive, there’s no mystery how purple has come to be associated with wealth, excess, mysticism, magic, and indulgence.
+  > The aptly named bedding brand Purple makes heavy use of the color to create a sense of futuristic luxury.
+- **`Blue`**: 
+  - The color of a clear sky, blue tends to invoke feelings of trust, ease, and peace. 
+  - That said, blue has also been shown to be [the least appetizing color](https://www.verywellmind.com/the-color-psychology-of-blue-2795815). 
+  - Try to avoid it if you’re selling food.
+  > Reliable blue is the perfect color to create a sense of comfort and security for Quad Lock’s line of protective phone cases.
+- **`Black, Gray, White`**: 
+  - Sometimes the best color for your brand is no color at all. 
+  - Shades of black, white, and gray tend to invoke a sense of calmness, balance, or clarity.
+  > Schoolhouse pairs shades of grey with soft muted colors to give its home decor brand a sense of calmness.
+
+
+
+
+
+
+
+
 
 
 
